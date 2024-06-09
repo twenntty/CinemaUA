@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1056206775028",
+    "firebase_url": "https://cinemaua-4bed8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cinemaua-4bed8",
+    "storage_bucket": "cinemaua-4bed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056206775028:android:53a9423ce7f38e44c6f4a1",
+        "android_client_info": {
+          "package_name": "com.markus.cinemaua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwQZSG-L1mvFWhHzlp9C0FdhHV67IgqhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
